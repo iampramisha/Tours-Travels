@@ -1,0 +1,9 @@
+.spann{
+    font-size: 19px;
+    font-weight: 600;
+    color:black;
+    text-decoration: none;
+}
+.spann:hover{
+    color: blue;
+}
